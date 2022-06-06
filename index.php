@@ -76,7 +76,7 @@ include('includes/config.php');
 	
 	</div>
 </div>
-<!--- /rupes ---->
+<!--- /rupess ---->
 
 
 
