@@ -77,5 +77,6 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 				
 	</div>
 	</div>
+    </div>
 </body>
 </html>
