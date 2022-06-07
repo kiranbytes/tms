@@ -4714,11 +4714,8 @@ ul.bt-list {
 }
 /*---signin-----*/
 .main-wthree{
-		min-height:794px;
-        background-image: url('/admin/images/admin-login-image.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 100vh;
+        background: #3b8fc5;
+            min-height: 794px;
 }
 span.prfil-img img {
     border-radius: 50%;
